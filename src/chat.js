@@ -8,7 +8,7 @@ componentDidMount(){
     (function(d, m){
         var kommunicateSettings = 
             {"appId":"29b0c80aa4ae3542edc67131b8cce22ae","popupWidget":true,"automaticChatOpenOnNavigation":true,"voiceOutput":true,
-             "voiceName":"Google Deutsch", // Replace Google Deutsch with the voiceName or an array of voiceNames from the below mentioned table list
+             "voiceName":"Google français", // Replace Google Deutsch with the voiceName or an array of voiceNames from the below mentioned table list
              "voiceRate":1};
         var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
         s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
