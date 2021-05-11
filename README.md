@@ -1,3 +1,3 @@
 # MDXdemo
 chatbot_Demo
-A simple react app to embed Amazon lex chatbot.
+Amazon lex chatbot integration into a simple reactapp.
